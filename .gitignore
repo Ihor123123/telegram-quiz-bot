@@ -1,0 +1,40 @@
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Replit specific files
+.replit
+replit.nix
+replit.md
+
+# Python packages
+*.egg-info/
+dist/
+build/
